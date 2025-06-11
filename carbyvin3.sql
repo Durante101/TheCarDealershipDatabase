@@ -1,0 +1,3 @@
+SELECT *
+FROM vehicles v
+WHERE v.VIN = "1G1YU2D68P5123456";
